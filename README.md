@@ -62,3 +62,9 @@ To uninstall CSF use
  
 
 sh /etc/csf/uninstall.sh
+
+
+---- Recommend Actions ------
+
+php.ini
+disable_functions = show_source, system, shell_exec, passthru, exec, popen, proc_open
