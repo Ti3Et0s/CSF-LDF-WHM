@@ -68,3 +68,5 @@ sh /etc/csf/uninstall.sh
 
 php.ini
 disable_functions = show_source, system, shell_exec, passthru, exec, popen, proc_open
+
+Enable BoxTrapper spam trap = disabled
